@@ -11,6 +11,6 @@
 2. Start apache menjadi stop apache, lalu buka shell pada XAMPP ketik seperti gambar dibawah ini sesuai file yang dibuat.
 <img src="./ss/ss.png" style="margin: auto; width:600px;">
 
-> Apabila muncul output seperti dibawah ini, kita bisa langsung mengetik <b><i>php spark serve<b><i> agar dapat mengakses codeigniter.
+> Apabila muncul output seperti dibawah ini, kita bisa langsung mengetik <b>php spark serve<i> agar dapat mengakses codeigniter.
 
 3. Setelah mengetik <b><i>php spark serve<b><i> 
