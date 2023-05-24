@@ -28,7 +28,7 @@
 <img src="./ss/sssss.png" style="margin: auto; width:600px;">
 
 3. Tampilan untuk halaman artikel
-<img src="./ss/sssssss.png" style="margin: auto; width:600px;">
+<img src="./ss/ssssssss.png" style="margin: auto; width:600px;">
 
 4. Tampilan untuk halaman contact
 <img src="./ss/ssssss.png" style="margin: auto; width:600px;">
