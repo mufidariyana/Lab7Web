@@ -11,6 +11,24 @@
 2. Start apache menjadi stop apache, lalu buka shell pada XAMPP ketik seperti gambar dibawah ini sesuai file yang dibuat.
 <img src="./ss/ss.png" style="margin: auto; width:600px;">
 
-> Apabila muncul output seperti dibawah ini, kita bisa langsung mengetik <i>php spark serve agar dapat mengakses codeigniter.
+> Apabila muncul output seperti dibawah ini, kita bisa langsung mengetik php spark serve agar dapat mengakses codeigniter.
 
-3. Setelah mengetik <b><i>php spark serve<b><i> 
+3. Setelah mengetik php spark serve dan muncul output seperti dibawah maka codeigniter dapat digunakan.
+<img src="./ss/sss.png" style="margin: auto; width:600px;">
+
+4. rename env menjadi .env lalu mennghapus tanda  (#) pada CI_ENVIRONMENT dan ubah juga menjadi CI_ENVIRONMENT= development.
+
+5. Refresh tampilan pada halaman http://localhost:8080/about 
+
+### Hasil Output 
+1. Tampilan untuk halaman home
+<img src="./ss/ssss.png" style="margin: auto; width:600px;">
+
+2. Tampilan untuk halaman about
+<img src="./ss/sssss.png" style="margin: auto; width:600px;">
+
+3. Tampilan untuk halaman artikel
+<img src="./ss/ssssss.png" style="margin: auto; width:600px;">
+
+4. Tampilan untuk halaman contact
+<img src="./ss/sssssss.png" style="margin: auto; width:600px;">
